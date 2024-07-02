@@ -1,0 +1,1 @@
+these are just the separate py/ipynb files which I have worked on before adding the required ones in 1 script for running that script daily to see the change in price of competitor fruits and vegetables 
